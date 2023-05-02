@@ -7,3 +7,4 @@ Github template repository which supports:
 - publish to cloudflare
 
 test
+test
