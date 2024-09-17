@@ -5,3 +5,6 @@ Github template repository which supports:
 - environment variables
 - conventional comits
 - publish to cloudflare
+
+test
+test
